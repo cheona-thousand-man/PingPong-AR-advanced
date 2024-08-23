@@ -28,3 +28,4 @@
 - **4주 내에 개발 목표** `24.08.21`부터 `24.00.00`까지
 - **Develop History**
   - [24.08.21] `PingPong AR Advanced` 레퍼지토리 생성, `README.md` 작성
+  - [24.08.23 - ] [게임 구현 방법 구상](https://drive.google.com/file/d/1ZpD8NNa2ulFVfyKfDmFfAqkoy2hpzPnF/view?usp=sharing)
