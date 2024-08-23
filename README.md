@@ -29,10 +29,10 @@
 - **Develop History**
   - [24.08.21] `PingPong AR Advanced` 레퍼지토리 생성, `README.md` 작성
   - [24.08.23-] [게임 구상](https://drive.google.com/file/d/1ZpD8NNa2ulFVfyKfDmFfAqkoy2hpzPnF/view?usp=sharing)
-    - **Step1** `PingPong` 탁구대/탁구공/탁구채 상호작용
-    - **Step2** `Game Logic` 선 결정, 점수 획득, 서브 교체, 게임 승리 
-    - **Step3** `Network Logic` 네트워크 1대1 접속, 게임 방 생성/접속, GameObject 네트워킹
-    - **Step4** `Swing by Sensor` 스마트폰 센서로 탁구공 타격
-    - **Step5** `AI` 인공지능 대전
-    - **Step6** `Hit Effect & Fun` 공 타격 효과, 랜덤 효과 적용 아이템
-    - **Step7** `UI` 맛깔나게 꾸며보쟈
+    - **Step1 `PingPong`** 탁구대/탁구공/탁구채 상호작용
+    - **Step2 `Game Logic`** 선 결정, 점수 획득, 서브 교체, 게임 승리 
+    - **Step3 `Network Logic`** 네트워크 1대1 접속, 게임 방 생성/접속, GameObject 네트워킹
+    - **Step4 `Swing by Sensor`** 스마트폰 센서로 탁구공 타격
+    - **Step5 `AI`** 인공지능 대전
+    - **Step6 `Hit Effect & Fun`** 공 타격 효과, 랜덤 효과 적용 아이템
+    - **Step7 `UI`** 맛깔나게 꾸며보쟈
