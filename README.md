@@ -32,7 +32,7 @@
     - **Step1 `PingPong`** 탁구대/탁구공/탁구채 상호작용
     - **Step2 `Game Logic`** 선 결정, 점수 획득, 서브 교체, 게임 승리 
     - **Step3 `Network Logic`** 네트워크 1대1 접속, 게임 방 생성/접속, GameObject 네트워킹
-    - **Step4 'AR'** 기본 3D 게임을 AR게임으로
+    - **Step4 `AR`** 기본 3D 게임을 AR게임으로
     - **Step5 `Swing by Sensor`** 스마트폰 센서로 탁구공 타격
     - **Step6 `AI`** 인공지능 대전
     - **Step7 `Hit Effect & Fun`** 공 타격 효과, 랜덤 효과 적용 아이템
